@@ -13,3 +13,9 @@ int main() {
   return 0;
 }
 ```
+
+**Sample List**
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
